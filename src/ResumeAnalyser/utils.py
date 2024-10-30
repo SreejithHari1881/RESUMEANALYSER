@@ -8,10 +8,10 @@ def read_file(file):
     if file.name.endswith(".pdf"):
         try:
             pdf_reader=PyPDF2.PdfFileReader(file)
-            text=""
+            resume_text=""
             for page in pdf_reader.pages:
-                text+=page.extract_text()
-            return text
+                resume_text+=page.extract_text()
+            return resume_text
             
         except Exception as e:
             raise Exception("error reading the PDF file")

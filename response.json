@@ -1,0 +1,43 @@
+{
+    "resume": {
+      "text": "",
+      "target_job_roles": []
+    },
+    "analysis_json": {
+      "summary": "",
+      "skills": {
+        "technical": [],
+        "non_technical": []
+      },
+      "experience": [
+        {
+          "position": "",
+          "company": "",
+          "location": "",
+          "responsibilities": []
+        }
+      ],
+      "education": [
+        {
+          "degree": "",
+          "institution": ""
+        }
+      ],
+      "certifications": [],
+      "relevant_technologies": [],
+      "professional_keywords": []
+    },
+    "evaluation_json": {
+      "strengths": [],
+      "weaknesses": [],
+      "improvement_suggestions": {
+        "resume_tailoring": [],
+        "keywords": [],
+        "quantifiable_achievements": [],
+        "professional_development": [],
+        "conciseness": []
+      },
+      "additional_keywords_skills": []
+    }
+  }
+  
