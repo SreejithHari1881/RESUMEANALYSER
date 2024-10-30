@@ -1,0 +1,106 @@
+Sreejith Hari, Manager
+Harisri,kulayettikara PO ,Neerpara, Kochi, 682317, India, 08971641299, sreejithhari805@gmail.com
+L I N K S LinkedIn profile , Scrum Master certification badge
+P R O F I L E Dedicated to contributing my extensive skills, knowledge, and leadership experience as a Lead Test Engineer to a
+dynamic and leading organization. Seeking a role that allows me to utilize a balance of hands-on management and
+leadership responsibilities, fostering a collaborative environment while ensuring the highest standards of quality
+in testing processes. Committed to making a meaningful impact and driving excellence within the organization's
+testing initiatives.
+• 10+ years of QA & Product testing expertise: Proven track record in developing and implementing
+meticulous test plans and cases.
+• Customer collaboration: Extensive experience working with customers, joint requirements
+development, testing coordination, and providing on-site support and training.
+• Project Management and Scrum Mastery: Demonstrated project management skills with a year's
+experience as a Scrum Master, leading cross-functional teams to project success.
+• Team Leadership: Successfully led and managed teams of 4-5 members, showcasing strong leadership and
+effective delegation.
+• Agile/SCRUM and Embedded Software Testing: In-depth experience in Agile/SCRUM
+methodologies and embedded software testing, contributing to high-quality software products.
+• Automation and Debugging: Proficient in debugging and fixing automation scripts, ensuring the
+reliability of automated testing processes.
+• Test Planning and Execution: Expertise in test planning, execution, root cause analysis, test estimation,
+results analysis, and reporting.
+• SDLC and STLC: Strong hands-on experience with the Software Test Life Cycle (STLC) and a
+comprehensive understanding of all SDLC phases.
+• Defect Tracking and Black-Box Testing: Robust knowledge in defect tracking, bug lifecycle, and
+black-box testing methodologies.
+• Versatile Testing: Hands-on experience in manual testing, mobile application testing, and web-based
+application testing, consistently delivering high-quality results.
+• Adaptability: Adaptable and flexible, with the ability to work on multiple projects simultaneously and
+adjust seamlessly to changing requirements.
+E M P L OY M E N T H I S T O RY
+May 2023 — Present Senior Software Engineer II, Harman International Bangalore
+• Proficient in Agile methodology, with experience as a Scrum Master for specific components.
+• Led marketing requirement and system specification development for global product development.
+• Experienced in estimating and planning system resources for product development.
+• Prioritized, planned, and tracked system activities to meet project goals in timing, costs, and quality.
+• Ensured system activities comply with company processes and methods.
+• Achieved completion of work products aligned with customer and internal milestones.
+• Demonstrated strong problem-solving and analytical skills.
+• Effective team player with a proactive and self-driven approach.
+Mar 2022 — May 2023 Test Consultant-Scrum Master, IBS Software Ernakulam
+• Managed multiple projects, ensuring daily efficiency and fostering team collaboration.
+• Conducted Sprint planning, aligning goals and facilitating effective communication.
+• Executed Verification, bug closure, and story execution, consistently meeting project expectations.
+• Streamlined the verification process by breaking down Epics into user stories.
+• Led story grooming sessions, aligning tasks with project timelines and goals.
+• Utilized SVN, Jenkins, and JIRA to enhance project management and issue tracking.
+• Reviewed requirements and technical documents, providing valuable feedback.
+• Developed and executed detailed test plans, ensuring coverage of all requirements.
+• Collaborated with cross-functional teams to identify test scenarios and acceptance criteria.
+• Conducted root cause analysis for issue identification and process improvement.
+• Tested web applications, logging issues in JIRA for systematic bug tracking.
+• Wrote and reviewed functional test cases, ensuring comprehensive coverage.
+• Conducted thorough functional and regression testing, resolving issues promptly.
+• Analyzed test results, identifying database impacts, errors, and usability concerns.
+• Led Agile meetings, fostering team collaboration and goal clarity.
+• Defined overall QA strategy, incorporating automation and proposing process improvements.
+• Proficient in test management software, SQL, and defect tracking systems.
+• Established formal QA/testing practices, developing end-to-end testing strategies.
+• Configured and managed test environments for optimal testing conditions
+Jul 2014 — Oct 2019 Senior Software Engineer I, Harman International Bangalore
+• Owned creation of comprehensive Test Plans and Cases, including Regression, Performance, Stress, and
+Functionality Testing.
+• Improved coverage with new automation test cases, enhancing efficiency within the existing framework.
+• Ensured 100% test coverage and traceability through systematic mapping in the Test Management Suite.
+• Conducted Validation and Verification (V & V) of Automotive Embedded Software based on Android.
+• Tested Bluetooth profiles (HFP, A2DP) to validate functionality.
+• Mapped and updated test cases based on new Customer requirements from DOORS.
+• Established and maintained testing environment, ensuring efficiency and accuracy.
+Mar 2014 — Jul 2014 Software Test Engineer, Global Edge software Bangalore
+• Performing Bluetooth interoperability tests with different devices
+• available in the market.
+• Creating and executing test cases.
+• Report the errors back to the client.
+• Identified software defects and followed through with resolution.
+Feb 2012 — Mar 2014 Software Test Engineer, Marquis Technologies Bangalore
+• Performed QA testing procedures including black box testing, white box testing, user acceptance testing,
+and maintenance regression testing.
+• Testing supported BT profiles for Nokia Handsets i.e. HFP, A2DP.
+• Experience in creating, analyzing and executing of test cases and scenarios.
+• Reporting errors using PCP tool and following up till the closure.
+• Involved in Stress, Memory, link loss, Cross Functional, Exploratory,Usability and profile testing on
+Bluetooth and Mobile Phones
+Apr 2011 — Feb 2012 Monitoring Engineer, Zephyr Systems Bangalore
+• Tested telecom equipments and other components as part of supporting a live network.
+• Co-ordinate with onsite team members to resolve issues regarding the equipment.
+• Prepare reports on testing on a daily basis.
+• Communicate with higher management on the issues faced.
+E D U C AT I O N
+Mar 2005 — Jul 2009 B-TECH, CUSAT Ernakulam
+Graduated
+Mar 2003 — May 2005 +2, KPM HSS,Poothota Ernakulam
+Passed with high marks
+S K I L L S Automated Testing Novice
+Functional Testing Expert
+Jenkins Beginner
+Selenium Novice
+SQL Beginner
+JIRA Expert
+DOORS Skillful
+Verification & Validation Experienced
+SOAP UI Beginner
+Agile/Scrum Skillful
+R E F E R E N C E S
+C O U R S E S
+Apr 2023 — Apr 2025 Certified Scrum Master
